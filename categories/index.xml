@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Crew Call - Time Tracking for Film Crew</title>
-    <link>https://crew-call.github.io/categories/</link>
+    <link>https://crewcall.xyz/categories/</link>
     <description>Recent content in Categories on Crew Call - Time Tracking for Film Crew</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://crew-call.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://crewcall.xyz/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
