@@ -1,1 +1,33 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Crew Call on Crew Call | Time Tracking for Film Crew</title><link>https://crewcall.xyz/crew-call/</link><description>Recent content in Crew Call on Crew Call | Time Tracking for Film Crew</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><atom:link href="https://crewcall.xyz/crew-call/index.xml" rel="self" type="application/rss+xml"/><item><title>Crew Call</title><link>https://crewcall.xyz/crew-call/version-history/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://crewcall.xyz/crew-call/version-history/</guid><description>Version 2.4.4 Fixed an issue where ‘Export Daily Times’ wouldn’t show for Work Days that have Logged Locations.</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Crew Call on Crew Call | Time Tracking for Film Crew</title><link>https://crewcall.xyz/crew-call/</link><description>Recent content in Crew Call on Crew Call | Time Tracking for Film Crew</description><generator>Hugo</generator><language>en-us</language><atom:link href="https://crewcall.xyz/crew-call/index.xml" rel="self" type="application/rss+xml"/><item><title>Crew Call</title><link>https://crewcall.xyz/crew-call/version-history/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://crewcall.xyz/crew-call/version-history/</guid><description>&lt;h3 id="version-244"&gt;Version 2.4.4&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Fixed an issue where ‘Export Daily Times’ wouldn’t show for Work Days that have Logged Locations.&lt;/li&gt;
+&lt;li&gt;Fixed an issue where Mileage values wouldn’t update correctly after changing the input of the Mileage Slider.&lt;/li&gt;
+&lt;li&gt;Fixed an issue where Meal Penalty values wouldn’t update correctly after changing the input of the Meal Penalty Slider.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id="version-243"&gt;Version 2.4.3&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Introducing Skip Days. When adding Multiple Work Days you can select days of the week to skip. This lets you exclude weekends when adding multiple weeks of work at once, handy if you’re working Monday to Friday on a longer job.&lt;/li&gt;
+&lt;li&gt;Introducing Export Daily Times. Easily copy the Daily Times for All Working Crew Members to the iOS Clipboard. This lets you quickly send Daily Times to the AD Department. Accessed from the Work Day List, Tap and Hold on a Work Day and select ‘Export Daily Times’.&lt;/li&gt;
+&lt;li&gt;Refined Various UI Elements for iOS 26.&lt;/li&gt;
+&lt;li&gt;Added ‘Tech Scout’ to the list of default values for Pre Production Work Days.&lt;/li&gt;
+&lt;li&gt;Added ‘Wrap Out’ to the list of default values for Post Production Work Days.&lt;/li&gt;
+&lt;li&gt;Fixed an issue where Work Day values wouldn’t update correctly after changing the input of the Work Day Slider.&lt;/li&gt;
+&lt;li&gt;Fixed an issue where ‘Select Multiple Work Days’ could be selected when a Job had no Work Days.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id="version-242"&gt;Version 2.4.2&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Updated Design for iOS 26.&lt;/li&gt;
+&lt;li&gt;Adding or Editing Chargeable Mileage for a Work Day is now more intuitive to prevent accidental dismissals.&lt;/li&gt;
+&lt;li&gt;Fixed an issue where the Lock Icon would look squashed in the Work Day List.&lt;/li&gt;
+&lt;li&gt;Fixed an issue where the app could crash while selecting custom dates when converting a Job to an Invoice.&lt;/li&gt;
+&lt;li&gt;Various design tweaks and minor bug fixes.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id="version-241"&gt;Version 2.4.1&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Added ‘Prep Day’ to the list of default values for Pre Production Work Days.&lt;/li&gt;
+&lt;li&gt;Fixed an issue where the Contact Us Form would not work.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id="version-240"&gt;Version 2.4.0&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Introducing Auto Calculate Mileage! With the tap of a button chargeable mileage for a Work Day can be automatically calculated. Shooting locations, distance from your base radius and travel to accommodation on away jobs is considered. This can be accessed from Notes → Mileage when logging a Work Day. This feature depends on your Base Location, Base Radius, Logged Locations and Home Locations being set for a Work Day, this is accessed from Notes → Locations. Requires iOS 15 or later.&lt;/p&gt;</description></item></channel></rss>
