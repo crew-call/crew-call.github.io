@@ -1,4 +1,10 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Crew Call on Crew Call | Time Tracking for Film Crew</title><link>https://crewcall.xyz/crew-call/</link><description>Recent content in Crew Call on Crew Call | Time Tracking for Film Crew</description><generator>Hugo</generator><language>en-us</language><atom:link href="https://crewcall.xyz/crew-call/index.xml" rel="self" type="application/rss+xml"/><item><title>Crew Call</title><link>https://crewcall.xyz/crew-call/version-history/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://crewcall.xyz/crew-call/version-history/</guid><description>&lt;h3 id="version-249"&gt;Version 2.4.9&lt;/h3&gt;
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Crew Call on Crew Call | Time Tracking for Film Crew</title><link>https://crewcall.xyz/crew-call/</link><description>Recent content in Crew Call on Crew Call | Time Tracking for Film Crew</description><generator>Hugo</generator><language>en-us</language><atom:link href="https://crewcall.xyz/crew-call/index.xml" rel="self" type="application/rss+xml"/><item><title>Crew Call</title><link>https://crewcall.xyz/crew-call/version-history/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://crewcall.xyz/crew-call/version-history/</guid><description>&lt;h3 id="version-2410"&gt;Version 2.4.10&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Added support for the iPhone Duo.&lt;/li&gt;
+&lt;li&gt;Fixed an issue where the Invoice Tutorial would not load when viewed in the app.&lt;/li&gt;
+&lt;li&gt;Various optimisations for iOS 27.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id="version-249"&gt;Version 2.4.9&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;Fixed a bug that was causing intermittent crashes.&lt;/li&gt;
 &lt;/ul&gt;
